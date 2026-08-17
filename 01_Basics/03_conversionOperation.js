@@ -67,3 +67,36 @@ let value9=String(num)    // number to string
 console.log(typeof value9);  // string
 console.log(value9);    // "123"
 
+
+
+//****************************************Operations********************************* */
+let value10= 3
+let negvalue= -value10
+console.log(negvalue);    // -3
+
+let str1="hello"
+let str2=" world"
+
+let str3=str1+str2
+console.log(str3);  // hello world
+
+console.log(1 + "2");   // 12
+console.log("1"+ 2);    // 12
+console.log("1" +2+2);  //122
+console.log(1+2+"2");   //32
+
+console.log(true);  // true
+console.log(+true);// 1
+console.log(+"");  //0
+
+
+
+
+
+
+
+
+
+
+
+
